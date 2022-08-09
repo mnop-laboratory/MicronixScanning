@@ -24,8 +24,7 @@ then turning it back on.
 KNOWN BUGS:
 - Read position reads a non-numeric value then stops reading the position correctly. 
 - Heatmap Z value bar not updating properly during and after a scan. 
-- Min value in angled scans.
-- Code crashes if executing command to fast on start up. 
+- Min value in angled scans. 
 
 List of features and description of features:
 =====================================================================================================================================================
